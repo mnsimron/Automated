@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Potensial program yang dapat digunak_d5d38c</name>
+   <tag></tag>
+   <elementGuidId>a912cfb2-b52a-462e-8777-69025df5675d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='plus-btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#plus-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8af1f0e7-1b08-422d-bab0-c59427069a8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-dark btn-sm plus</value>
+      <webElementGuid>2a4e201e-9135-4496-bb19-32d5aded29f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>plus-btn</value>
+      <webElementGuid>dfe7153e-3009-4236-9262-666ccb09e9be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-list-product[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-panel&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;card ribbon&quot;]/div[@class=&quot;product-home&quot;]/div[@class=&quot;row justify-content-md-center&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;input-group mb-3 toggle&quot;]/div[@class=&quot;input-group-prepend&quot;]/button[@id=&quot;plus-btn&quot;]</value>
+      <webElementGuid>597202c4-d004-4cf8-b793-d17c9756ee26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d2fecc11-6664-4648-a282-89511ff654ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-dark btn-sm plus</value>
+      <webElementGuid>1c5fd99a-c6cf-471f-a6c8-d428c56ebd6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>plus-btn</value>
+      <webElementGuid>246a8d61-8ae4-4975-9808-9da027258ee4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-list-product[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-panel&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;card ribbon&quot;]/div[@class=&quot;product-home&quot;]/div[@class=&quot;row justify-content-md-center&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;input-group mb-3 toggle&quot;]/div[@class=&quot;input-group-prepend&quot;]/button[@id=&quot;plus-btn&quot;]</value>
+      <webElementGuid>2cd52b10-4703-4bfe-9d24-6940ed19cfd2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='plus-btn']</value>
+      <webElementGuid>f45b6b9a-0b77-42c5-8c9d-5b89b10c8110</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Potensial program yang dapat digunakan :'])[1]/following::button[2]</value>
+      <webElementGuid>ae869bfa-9647-4923-a4fc-5a6cade0bdeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Program'])[1]/following::button[2]</value>
+      <webElementGuid>3272877b-cdee-414c-a237-c6ae9e74929d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Ke Keranjang'])[1]/preceding::button[1]</value>
+      <webElementGuid>309c1eab-4a15-4eba-b022-beaad4db2250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Potongan 5%'])[1]/preceding::button[2]</value>
+      <webElementGuid>0c5644fb-652c-4c6c-af70-115f0bbcda93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/button</value>
+      <webElementGuid>53290d4d-2cbb-4c56-b584-393d4bfad204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'plus-btn']</value>
+      <webElementGuid>893fc498-b79c-4967-8d7e-4f9514585a69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARCH PROBE'])[1]/following::button[2]</value>
+      <webElementGuid>2cacaba1-3470-404c-8169-1e7c3cee19cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARCH PROBE CONDITIONING'])[2]/preceding::button[2]</value>
+      <webElementGuid>7039d3f8-8e98-49a6-93b0-ee2229e399cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/button</value>
+      <webElementGuid>33862486-928f-4eba-8677-30ea3ff744db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Katalog Produk</name>
+   <tag></tag>
+   <elementGuidId>7c6479f4-bb33-4cae-a22c-8d36c1b2a431</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Proposal'])[2]/preceding::p[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>149b9ac0-538b-4271-8321-d5bb4b968ed7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalog Produk</value>
+      <webElementGuid>b981f8ae-e7fe-4a8a-945a-d2d1b00bfefe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-list-proposal[1]/div[@class=&quot;wrapper&quot;]/app-admin-sidebar[1]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;sidebar-wrapper&quot;]/ul[@class=&quot;nav navAnniversary&quot;]/li[@class=&quot;nav-item mobile-menu-sidebar&quot;]/a[1]/p[1]</value>
+      <webElementGuid>03137a80-3ad6-437a-b488-b394a7e2de29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>cab74685-92be-4c0d-8616-14536bc1fe83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalog Produk</value>
+      <webElementGuid>cc3d384c-73e6-4f54-9a83-7946cba1902b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[@class=&quot;wrapper&quot;]/app-admin-sidebar[1]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;sidebar-wrapper&quot;]/ul[@class=&quot;nav navAnniversary&quot;]/li[@class=&quot;nav-item mobile-menu-sidebar&quot;]/a[1]/p[1]</value>
+      <webElementGuid>4339d99e-b8d9-49cd-ba71-5fa6c3379b95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6ea18529-5d0b-4137-8ae1-74ce9114992e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalog Produk</value>
+      <webElementGuid>b22f7d9f-7d0a-4ea3-ae8c-22567c08218f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[@class=&quot;wrapper&quot;]/app-admin-sidebar[1]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;sidebar-wrapper&quot;]/ul[@class=&quot;nav navAnniversary&quot;]/li[@class=&quot;nav-item mobile-menu-sidebar&quot;]/a[1]/p[1]</value>
+      <webElementGuid>291b41fb-ebd3-4c2c-9fb1-06de19bbf598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>8de0b8b2-8cfd-45ed-9a03-0994bf24e201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalog Produk</value>
+      <webElementGuid>37073386-569b-40bb-8b80-93df40fe88cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[@class=&quot;wrapper&quot;]/app-admin-sidebar[1]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;sidebar-wrapper&quot;]/ul[@class=&quot;nav navAnniversary&quot;]/li[@class=&quot;nav-item mobile-menu-sidebar&quot;]/a[1]/p[1]</value>
+      <webElementGuid>a2cefaae-76a2-4466-8db7-342a705166a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>de57cfd4-190b-4284-97b1-a1bbe0bffc10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalog Produk</value>
+      <webElementGuid>b2859261-4ddc-4d61-b05e-8bc251732b29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[@class=&quot;wrapper&quot;]/app-admin-sidebar[1]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;sidebar-wrapper&quot;]/ul[@class=&quot;nav navAnniversary&quot;]/li[@class=&quot;nav-item mobile-menu-sidebar&quot;]/a[1]/p[1]</value>
+      <webElementGuid>7ffb4e7e-d768-4fe9-9e0c-4713dbf9fa29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c487f842-0a6f-4b73-a417-545057b7d33b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalog Produk</value>
+      <webElementGuid>b14a018d-1b7f-40b7-9bae-5062f721fad4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[@class=&quot;wrapper&quot;]/app-admin-sidebar[1]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;sidebar-wrapper&quot;]/ul[@class=&quot;nav navAnniversary&quot;]/li[@class=&quot;nav-item mobile-menu-sidebar&quot;]/a[1]/p[1]</value>
+      <webElementGuid>29eb243a-6440-4f26-8a70-a63f24fac773</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f97b878d-018e-4dae-aad0-885930a3f6a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalog Produk</value>
+      <webElementGuid>749d51e4-6447-4fa0-8eb1-78ab1bd520ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[@class=&quot;wrapper&quot;]/app-admin-sidebar[1]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;sidebar-wrapper&quot;]/ul[@class=&quot;nav navAnniversary&quot;]/li[@class=&quot;nav-item mobile-menu-sidebar&quot;]/a[1]/p[1]</value>
+      <webElementGuid>08f6a404-05c9-4aed-88b5-0423e3f51b98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6366241e-b6c7-4d5c-b110-c0669e72c949</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalog Produk</value>
+      <webElementGuid>a17fd4c2-9d1b-4619-b8e8-7de59e6e5b87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[@class=&quot;wrapper&quot;]/app-admin-sidebar[1]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;sidebar-wrapper&quot;]/ul[@class=&quot;nav navAnniversary&quot;]/li[@class=&quot;nav-item mobile-menu-sidebar&quot;]/a[1]/p[1]</value>
+      <webElementGuid>820e0fd9-ff0d-4bd8-a65d-f15642d15d2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9527250b-92d9-434b-874c-76be7fdddeff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalog Produk</value>
+      <webElementGuid>ecba8fe8-4c9a-4f9a-a1b1-25aeec760cc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[@class=&quot;wrapper&quot;]/app-admin-sidebar[1]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;sidebar-wrapper&quot;]/ul[@class=&quot;nav navAnniversary&quot;]/li[@class=&quot;nav-item mobile-menu-sidebar&quot;]/a[1]/p[1]</value>
+      <webElementGuid>0ceae325-789f-4d4f-a239-2d68261e416c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>710ccc4d-5973-4859-abb7-47e9b07b7038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalog Produk</value>
+      <webElementGuid>c37fbf57-ec00-4097-82c0-a6ccaf5b674b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[@class=&quot;wrapper&quot;]/app-admin-sidebar[1]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;sidebar-wrapper&quot;]/ul[@class=&quot;nav navAnniversary&quot;]/li[@class=&quot;nav-item mobile-menu-sidebar&quot;]/a[1]/p[1]</value>
+      <webElementGuid>ce252273-3204-41c7-bb69-e620fb855b4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>df89d5d2-14ac-4504-8738-ad4f41a78962</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalog Produk</value>
+      <webElementGuid>2f1fe17d-d2a1-47a2-b4e8-197430a9a003</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[@class=&quot;wrapper&quot;]/app-admin-sidebar[1]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;sidebar-wrapper&quot;]/ul[@class=&quot;nav navAnniversary&quot;]/li[@class=&quot;nav-item mobile-menu-sidebar&quot;]/a[1]/p[1]</value>
+      <webElementGuid>4f6a6be6-2385-4fec-b35f-5e837ba49e06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proposal'])[2]/preceding::p[4]</value>
+      <webElementGuid>26824097-98d3-4c29-b436-7d892158f369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masih Berlaku'])[1]/preceding::p[4]</value>
+      <webElementGuid>85b488a4-0fa5-4539-a1e4-e87c9219c3c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Katalog Produk']/parent::*</value>
+      <webElementGuid>195de2cb-9eec-447b-a2ee-00e4f993a7f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/p</value>
+      <webElementGuid>a5361473-d8f6-45b6-8af6-91e8f63b71f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Katalog Produk' or . = 'Katalog Produk')]</value>
+      <webElementGuid>959464a8-100c-4139-a98f-59bf4df0bf1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[1]/preceding::p[4]</value>
+      <webElementGuid>5aa88d21-0371-4995-b2ab-0f761d87b2de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::p[4]</value>
+      <webElementGuid>9808c4e4-f935-49b6-abcc-070d18709aa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/following::p[8]</value>
+      <webElementGuid>1719dcec-d296-4c69-bd3d-6e68f5a68c9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

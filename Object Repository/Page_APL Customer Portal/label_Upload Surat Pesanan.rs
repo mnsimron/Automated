@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Upload Surat Pesanan</name>
+   <tag></tag>
+   <elementGuidId>ae2e8519-613f-401d-81de-71fb6e775fa2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Surat Pesanan'])[1]/following::label[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.custom-file-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f9f2c878-a23a-4820-a409-d3ce87f4cd05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-file-label</value>
+      <webElementGuid>d33365ac-3ea2-4607-9c59-33b896605ab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>validatedCustomFile</value>
+      <webElementGuid>22b31109-c1d1-4f9c-84e2-970f296e2d85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload Surat Pesanan</value>
+      <webElementGuid>a4dbec69-2443-40bb-90bf-35090359a4ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-checkout[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-panel-full&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;row ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-5&quot;]/div[@class=&quot;card checkout-1&quot;]/div[@class=&quot;custom-file&quot;]/label[@class=&quot;custom-file-label&quot;]</value>
+      <webElementGuid>d477f946-719a-407d-9c85-f375c9386104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>792477bb-940f-48de-ac28-c960ba43303a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-file-label</value>
+      <webElementGuid>3c7a1e4a-d7ec-48cc-93c4-01cc7970d55d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>validatedCustomFile</value>
+      <webElementGuid>0ab6b5d6-fb4e-42a1-aa83-ff2a57c83a1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload Surat Pesanan</value>
+      <webElementGuid>3b1e282b-80e1-48dc-b17a-c0828a5cefb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-checkout[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-panel-full&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;row ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-5&quot;]/div[@class=&quot;card checkout-1&quot;]/div[@class=&quot;custom-file&quot;]/label[@class=&quot;custom-file-label&quot;]</value>
+      <webElementGuid>25ddd9e9-527a-4531-9ed1-3d8ea8b5ac85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Surat Pesanan'])[1]/following::label[1]</value>
+      <webElementGuid>2a581765-bf5e-46de-bb63-03b08e2cff8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/following::label[1]</value>
+      <webElementGuid>ecde5905-f8a8-4035-9b23-2b638e6cfc13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Pengiriman'])[1]/preceding::label[1]</value>
+      <webElementGuid>152d1346-ae8d-475b-875c-6e5e99d8c1f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Alamat Lain'])[1]/preceding::label[1]</value>
+      <webElementGuid>e4995ee1-9898-4807-bc2f-96db07bc95ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upload Surat Pesanan']/parent::*</value>
+      <webElementGuid>8601c997-60a7-4ae7-b46d-45dd795b7ac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>281f9e68-e7c9-4ad7-8dc5-6bc60c3485ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Upload Surat Pesanan' or . = 'Upload Surat Pesanan')]</value>
+      <webElementGuid>d4894dc3-1016-4e1f-a0cd-18728f62cd17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

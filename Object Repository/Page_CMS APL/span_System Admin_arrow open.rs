@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_System Admin_arrow open</name>
+   <tag></tag>
+   <elementGuidId>8d180eb5-a3f7-4b47-b760-52003a80375e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='side-menu']/li[8]/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.arrow.open</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ce3418dd-0f35-43a4-8ba3-cdd3ba4fae04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>arrow open</value>
+      <webElementGuid>2e575241-fef3-4af4-a380-85d715d90c43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;side-menu&quot;)/li[@class=&quot;open&quot;]/a[1]/span[@class=&quot;arrow open&quot;]</value>
+      <webElementGuid>1545a82d-eb47-41d7-a7c6-e353fc5873ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='side-menu']/li[8]/a/span[2]</value>
+      <webElementGuid>c0757c05-5503-4fd4-9f88-1f9b6ec45f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a/span[2]</value>
+      <webElementGuid>59e3667d-709a-4647-890e-783b5f233e23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

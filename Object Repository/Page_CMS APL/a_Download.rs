@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Download</name>
+   <tag></tag>
+   <elementGuidId>e983d1c1-c161-45ae-9217-a5061b9f9d7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='TableTemplateOrder']/tbody/tr/td[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-block.btn-sm.green</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9a2537a6-8561-4a0e-be70-ce16d7e30eb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-block btn-sm green</value>
+      <webElementGuid>0ca60860-bbe2-430f-8a2d-c2a726dcf4de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/CMS/TemplateOrder/Download?filename=https://fsaplapq.blob.core.windows.net/rl-qa-ezrx-cart/uploaded_excel_template/excelimport/upload_to.xlsx</value>
+      <webElementGuid>f88f1f0a-152f-4f35-a574-0a45a08c70ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Download</value>
+      <webElementGuid>13a724c8-60a1-41cb-9fa2-5059f8c400fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TableTemplateOrder&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[2]/a[@class=&quot;btn btn-block btn-sm green&quot;]</value>
+      <webElementGuid>dc659a5d-38e0-44b9-9977-ec974b3beb2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='TableTemplateOrder']/tbody/tr/td[2]/a</value>
+      <webElementGuid>88bc265b-77ee-432a-9d3b-7dbee138e5f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Download')]</value>
+      <webElementGuid>f75c884a-b85e-4d63-b547-135f6984e47e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desc'])[1]/following::a[2]</value>
+      <webElementGuid>8e0f34fa-ee0d-4c87-87a7-a5022f5376b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Industri Code'])[1]/following::a[2]</value>
+      <webElementGuid>fd0f16ff-8fe0-45f3-99c7-f64bb971d124</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TO'])[1]/preceding::a[1]</value>
+      <webElementGuid>f093ba17-52a8-4ab3-9d9b-11b3dcd5d7d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toko Obatt'])[1]/preceding::a[1]</value>
+      <webElementGuid>4d3604c7-2593-40ba-af46-b5213b395411</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/CMS/TemplateOrder/Download?filename=https://fsaplapq.blob.core.windows.net/rl-qa-ezrx-cart/uploaded_excel_template/excelimport/upload_to.xlsx')]</value>
+      <webElementGuid>1880a4a2-444e-40d5-bc40-0ea89708fc00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a</value>
+      <webElementGuid>6ccfacfe-a419-4449-9e5c-8439eb5b88a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/CMS/TemplateOrder/Download?filename=https://fsaplapq.blob.core.windows.net/rl-qa-ezrx-cart/uploaded_excel_template/excelimport/upload_to.xlsx' and (text() = ' Download' or . = ' Download')]</value>
+      <webElementGuid>81cc04c6-6176-4cec-baef-1a314b818047</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

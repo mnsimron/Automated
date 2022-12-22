@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Program</name>
+   <tag></tag>
+   <elementGuidId>ae1dfa68-aad2-49fd-b84b-6d6ebe7a75b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[1]/preceding::a[16]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.nav-item.mobile-menu-sidebar > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fa867e1b-c522-4863-ae33-1e2edaa58e5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-router-link</name>
+      <type>Main</type>
+      <value>/program</value>
+      <webElementGuid>c1e960e2-d05c-43ab-b631-25c279d88ad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/program</value>
+      <webElementGuid>8ca7a9bf-ddda-45ab-8358-6de5b26b7afe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Program</value>
+      <webElementGuid>3a050685-2ca6-434f-a84a-e24f8c060806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[@class=&quot;wrapper&quot;]/app-admin-sidebar[1]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;sidebar-wrapper&quot;]/ul[@class=&quot;nav navAnniversary&quot;]/li[@class=&quot;nav-item mobile-menu-sidebar&quot;]/a[1]</value>
+      <webElementGuid>8b5c163c-9721-46a0-8969-e09e3f49393b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[1]/preceding::a[16]</value>
+      <webElementGuid>6c39b632-0311-4d0c-8b78-8926c1d9840b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::a[16]</value>
+      <webElementGuid>c5589b4f-22dd-40cd-91ca-be2b994961c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/program')]</value>
+      <webElementGuid>daac0951-a968-4967-a2e6-d7894ce38756</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/ul/li/a</value>
+      <webElementGuid>9bde65d6-0aba-4647-aaec-0dd4d55255fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/program' and (text() = 'Program' or . = 'Program')]</value>
+      <webElementGuid>de8c6f62-b771-46e6-869d-d8e8dd007b37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

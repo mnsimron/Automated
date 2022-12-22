@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Set Date</name>
+   <tag></tag>
+   <elementGuidId>116c6a06-7d3a-4c5a-9ce2-ebe3407ed846</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='searchCustomer']/div/div[2]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-group</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b29843e1-6097-4b0e-9282-92d266b4296c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-group</value>
+      <webElementGuid>4c915449-5004-4dd6-8ff6-f797d68fe7f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Set Date
+                                    </value>
+      <webElementGuid>a88ba404-2260-47ed-a7aa-620645ae2575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchCustomer&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 padding-15&quot;]/div[@class=&quot;col-sm-9&quot;]/div[@class=&quot;portlet light shadow&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;form-group&quot;]</value>
+      <webElementGuid>f7e2ca84-da7e-443c-b9b4-21fa9d4a16bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>40da7dcb-7303-420b-866e-6e2fbcbef333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-group</value>
+      <webElementGuid>17299d2e-1be2-42bb-bbfa-bafe20ee7d2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Set Date
+                                    </value>
+      <webElementGuid>b15c1dc2-d184-4a82-b7b2-f66385722e47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchCustomer&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 padding-15&quot;]/div[@class=&quot;col-sm-9&quot;]/div[@class=&quot;portlet light shadow&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;form-group&quot;]</value>
+      <webElementGuid>2d45886a-c730-4c21-9c76-a356dfef843d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='searchCustomer']/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>44f99097-65df-4b4b-8d5e-c8e205f7b65c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set selected product to'])[1]/following::div[2]</value>
+      <webElementGuid>0dc2e545-44fd-4573-bd0d-c6aa5dd20fc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ED Settings'])[1]/following::div[5]</value>
+      <webElementGuid>495e9ebd-6ac7-49b0-ad4f-c1ad220cfa3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set selected expiry status to'])[1]/preceding::div[1]</value>
+      <webElementGuid>3abdf628-0899-4396-a0ba-53b435e55862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>3c1d664a-76ff-4f55-8f11-1efe5c103fdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                                        Set Date
+                                    ' or . = '
+                                        Set Date
+                                    ')]</value>
+      <webElementGuid>7306345d-6a4e-4323-a332-e69ec5f487b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_Syarat dan KetentuanIngat Saya (Opsion_0c9c44</name>
+   <tag></tag>
+   <elementGuidId>09bdd51a-793e-4f35-ba08-9af52987869f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-login']/div/div/div[2]/div/form</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form.login-page.ng-dirty.ng-touched.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>f51dc136-ef96-4380-b036-6270bf8b5094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login-page ng-dirty ng-touched ng-valid</value>
+      <webElementGuid>a77263f7-a994-4395-bea5-2a26327f3468</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Syarat dan KetentuanIngat Saya (Opsional) MASUK Lupa Kata Sandi?Daftar Akun</value>
+      <webElementGuid>4c570599-4aeb-49aa-9dc7-a59058071cc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-login&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form&quot;]/form[@class=&quot;login-page ng-dirty ng-touched ng-valid&quot;]</value>
+      <webElementGuid>332ae896-f8be-42bd-ad6d-84161fd32ab8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>848eda80-9f23-4c7c-a20d-ab18859cfbf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login-page ng-dirty ng-touched ng-valid</value>
+      <webElementGuid>d4d0a97b-c20c-44a2-8f06-1c0ae0a0edb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Syarat dan KetentuanIngat Saya (Opsional) MASUK Lupa Kata Sandi?Daftar Akun</value>
+      <webElementGuid>5e6e5cda-871f-4e3a-8a84-53d858e5ebe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-login&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form&quot;]/form[@class=&quot;login-page ng-dirty ng-touched ng-valid&quot;]</value>
+      <webElementGuid>ff26af80-8a8c-4a58-acbf-8fe938b741c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-login']/div/div/div[2]/div/form</value>
+      <webElementGuid>7c4e84dc-06b3-4bc0-8932-4ad2347f7246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APL CUSTOMER PORTAL'])[3]/following::form[1]</value>
+      <webElementGuid>b600574e-b75a-4046-a337-5611a6df0c07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MASUK'])[2]/following::form[1]</value>
+      <webElementGuid>aef23ee7-2281-45e7-a100-8da5f0e0fdb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form</value>
+      <webElementGuid>f9de173b-ea94-4db6-a605-3292ef5f7562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = 'Syarat dan KetentuanIngat Saya (Opsional) MASUK Lupa Kata Sandi?Daftar Akun' or . = 'Syarat dan KetentuanIngat Saya (Opsional) MASUK Lupa Kata Sandi?Daftar Akun')]</value>
+      <webElementGuid>696d47a6-6157-481c-8647-b4bcc11934ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

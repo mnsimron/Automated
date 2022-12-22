@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Lihat Semua Notifikasi_la la-shopping-cart_1</name>
+   <tag></tag>
+   <elementGuidId>d30a0edb-a93e-4228-81de-03567b79b6e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='navbarDropdown']/i)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.la.la-shopping-cart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>93917895-6fce-40d2-80d2-dabd0cb6db27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>la la-shopping-cart</value>
+      <webElementGuid>a8903486-0a73-4dc1-9361-d98caeb83706</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-add-product[1]/div[@class=&quot;wrapper&quot;]/app-admin-header[1]/div[@class=&quot;main-header&quot;]/nav[@class=&quot;navbar navbar-header navbar-expand-lg&quot;]/div[@class=&quot;container-fluid&quot;]/ul[@class=&quot;navbar-nav topbar-nav ml-md-auto align-items-center&quot;]/li[@class=&quot;nav-item dropdown hidden-caret&quot;]/a[@id=&quot;navbarDropdown&quot;]/i[@class=&quot;la la-shopping-cart&quot;]</value>
+      <webElementGuid>69b95d03-3ea6-4d49-8fef-37b008819cdc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='navbarDropdown']/i)[2]</value>
+      <webElementGuid>ac8ed0b0-3af5-4b67-b56e-7b76a0aee081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/i</value>
+      <webElementGuid>0701f4e3-458f-43d2-960e-f0c5629de38b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

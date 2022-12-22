@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Lihat Semua Notifikasi_la la-shopping-cart</name>
+   <tag></tag>
+   <elementGuidId>3806e62f-b635-469e-b365-e8098f33ea34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='navbarDropdown']/i)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.la.la-shopping-cart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f5ee03e6-82f3-4baf-8f6b-da58865b299c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>la la-shopping-cart</value>
+      <webElementGuid>0efb312f-9a27-49c6-a755-8ffb9af94500</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-add-product[1]/div[@class=&quot;wrapper&quot;]/app-admin-header[1]/div[@class=&quot;main-header&quot;]/nav[@class=&quot;navbar navbar-header navbar-expand-lg&quot;]/div[@class=&quot;container-fluid&quot;]/ul[@class=&quot;navbar-nav topbar-nav ml-md-auto align-items-center&quot;]/li[@class=&quot;nav-item dropdown hidden-caret&quot;]/a[@id=&quot;navbarDropdown&quot;]/i[@class=&quot;la la-shopping-cart&quot;]</value>
+      <webElementGuid>bdaede8a-3261-4863-8d0c-2faa9707184f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ff9f5d09-a0f8-4c10-a7c4-0e86336224c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>la la-shopping-cart</value>
+      <webElementGuid>76caf0f0-9ff8-476c-b63e-8a1361355314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-list-product[1]/div[@class=&quot;wrapper&quot;]/app-admin-header[1]/div[@class=&quot;main-header&quot;]/nav[@class=&quot;navbar navbar-header navbar-expand-lg&quot;]/div[@class=&quot;container-fluid&quot;]/ul[@class=&quot;navbar-nav topbar-nav ml-md-auto align-items-center&quot;]/li[@class=&quot;nav-item dropdown hidden-caret&quot;]/a[@id=&quot;navbarDropdown&quot;]/i[@class=&quot;la la-shopping-cart&quot;]</value>
+      <webElementGuid>5976aad3-3c63-455c-bab4-63f43f79b892</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>14ad1cf2-8b0b-4bde-bb5b-969c542055e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>la la-shopping-cart</value>
+      <webElementGuid>401961fa-4fc4-45a9-b778-3efbc8c9bde8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[@class=&quot;wrapper&quot;]/app-admin-header[1]/div[@class=&quot;main-header&quot;]/nav[@class=&quot;navbar navbar-header navbar-expand-lg&quot;]/div[@class=&quot;container-fluid&quot;]/ul[@class=&quot;navbar-nav topbar-nav ml-md-auto align-items-center&quot;]/li[@class=&quot;nav-item dropdown hidden-caret&quot;]/a[@id=&quot;navbarDropdown&quot;]/i[@class=&quot;la la-shopping-cart&quot;]</value>
+      <webElementGuid>c98ca3b3-98e5-4aa9-9582-8a493e23dc64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='navbarDropdown']/i)[2]</value>
+      <webElementGuid>e08f323c-2406-4f6a-8810-fa046a4d9898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/i</value>
+      <webElementGuid>200b114f-a5f2-4b50-82cf-f221d4427dfa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Save</name>
+   <tag></tag>
+   <elementGuidId>1577e707-62d7-4f06-9bfe-dc700be1f362</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='searchCustomer']/div/div[3]/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>424d1340-94a5-44d7-89b4-b3922a2e72ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-6</value>
+      <webElementGuid>0804ffd4-6f25-46d9-8ffa-cc716bcedd34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    Save
+                                </value>
+      <webElementGuid>9ad572c8-0e61-4e87-9491-46d3f37c6012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchCustomer&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 padding-15&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-9 text-center&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6&quot;]</value>
+      <webElementGuid>cb6904e4-7d7d-47b2-a6f9-ece1cd19d483</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='searchCustomer']/div/div[3]/div/div[2]/div/div</value>
+      <webElementGuid>f4648343-4e4e-479a-a3d7-32baab608632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Check from Table ED'])[1]/following::div[6]</value>
+      <webElementGuid>74960eed-ffb6-41f4-b23e-8de9267e915a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 144 of 144 entries'])[1]/following::div[6]</value>
+      <webElementGuid>0cb5e7ed-6316-43aa-bd29-21d5b1ddeaef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[1]</value>
+      <webElementGuid>88838c5f-ff80-4441-af2a-e81fe779ef06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div</value>
+      <webElementGuid>6b8582f3-c742-4010-9afc-0d08ff34e8fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                                    Save
+                                ' or . = '
+                                    Save
+                                ')]</value>
+      <webElementGuid>b1592ada-4148-4902-a3e4-d8a1d5aef443</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

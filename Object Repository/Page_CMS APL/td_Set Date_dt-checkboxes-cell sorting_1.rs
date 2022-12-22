@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Set Date_dt-checkboxes-cell sorting_1</name>
+   <tag></tag>
+   <elementGuidId>af6c7543-9825-42e0-aaab-1aeb38c4ac14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='DataED']/tr[2]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#DataED > tr.even > td.dt-checkboxes-cell.sorting_1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>958a4c82-d630-4b81-86bd-40bbf3494f60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dt-checkboxes-cell sorting_1</value>
+      <webElementGuid>e34ee5fe-cf59-4192-9498-9ac00fa98336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DataED&quot;)/tr[@class=&quot;even&quot;]/td[@class=&quot;dt-checkboxes-cell sorting_1&quot;]</value>
+      <webElementGuid>91cdd28f-9990-4d25-806f-379760bf625b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>05f9401c-d52a-4ce0-afa2-d6ce8d126609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dt-checkboxes-cell sorting_1</value>
+      <webElementGuid>06813db2-d634-42be-9d89-3e5198e76c11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DataED&quot;)/tr[@class=&quot;even&quot;]/td[@class=&quot;dt-checkboxes-cell sorting_1&quot;]</value>
+      <webElementGuid>55ff748c-79bb-4d3f-b52a-cd23cf332781</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f505950d-57f3-4e54-9e3d-63794c8cace9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dt-checkboxes-cell sorting_1</value>
+      <webElementGuid>71945e6d-a481-4247-8830-6ffb98482c7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DataED&quot;)/tr[@class=&quot;even&quot;]/td[@class=&quot;dt-checkboxes-cell sorting_1&quot;]</value>
+      <webElementGuid>7bd25b62-55d0-412a-8ccc-3f67b7e032ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='DataED']/tr[2]/td</value>
+      <webElementGuid>0c41c0a4-11ab-4a68-92f3-7042996e88a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Date'])[2]/following::td[1]</value>
+      <webElementGuid>cda8428c-429f-4769-a476-54ee5587926f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::td[2]</value>
+      <webElementGuid>682a8a71-f598-4d7d-829d-2cbb69f13eda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT. ABBOTT PRODUCTS'])[2]/preceding::td[1]</value>
+      <webElementGuid>577d8904-6d3d-4d14-8f1c-81820c3b53ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CD O-RING DIA 21.89X2.62 SILICONE'])[1]/preceding::td[3]</value>
+      <webElementGuid>77663d1a-3d10-425d-930a-1f1d3a6fb4f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/table/tbody/tr[2]/td</value>
+      <webElementGuid>4289048e-f44e-4fd9-b92a-92fff5ebe3f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='DataED']/tr[4]/td</value>
+      <webElementGuid>2e6a2c95-e783-42cb-90ec-e209fe630e73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Date'])[4]/following::td[1]</value>
+      <webElementGuid>ece781c8-4538-40ea-92cd-1103f6b7427a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[3]/following::td[2]</value>
+      <webElementGuid>b8426cbc-f9ac-4726-a0c2-0e866fbc0d1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT. ABBOTT PRODUCTS'])[4]/preceding::td[1]</value>
+      <webElementGuid>3985c3a9-3345-4984-9c9a-906b9f17fd8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='O-RING DIA 1.4 X 1.25 FLUOCARBON'])[1]/preceding::td[3]</value>
+      <webElementGuid>d6768d0b-e227-438a-b9ee-ac8104e6c40b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/table/tbody/tr[4]/td</value>
+      <webElementGuid>01cd5816-8366-415a-bfc7-074ca9cba7de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

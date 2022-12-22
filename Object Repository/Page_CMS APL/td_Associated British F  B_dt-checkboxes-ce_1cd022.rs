@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Associated British F  B_dt-checkboxes-ce_1cd022</name>
+   <tag></tag>
+   <elementGuidId>63744e48-3cf6-4eba-8085-06b0ecac34d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='TableClient']/tbody/tr[3]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>94f9f661-5f19-48a0-a0fc-25a91d363df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dt-checkboxes-cell sorting_1</value>
+      <webElementGuid>4a1f4ded-3c8f-4515-86ad-4a7d9407abd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TableClient&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;dt-checkboxes-cell sorting_1&quot;]</value>
+      <webElementGuid>220b9347-94b0-4a68-a7b0-da1117b52b2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>2bcdc394-cfb1-488b-bbb7-5167cc2e196b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dt-checkboxes-cell sorting_1</value>
+      <webElementGuid>67d59aaa-9279-4673-8292-1b8f034047b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TableClient&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;dt-checkboxes-cell sorting_1&quot;]</value>
+      <webElementGuid>c0eca4b2-9ac2-4f8e-b15d-a78697fcbac2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='TableClient']/tbody/tr[3]/td</value>
+      <webElementGuid>709fea2f-01ab-4912-9d61-46fb1c69d654</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Associated British F &amp; B'])[1]/following::td[1]</value>
+      <webElementGuid>0204a94c-5b64-4a4a-9fdf-08585db67418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABF'])[1]/following::td[2]</value>
+      <webElementGuid>77bcc900-8c64-4c54-bb66-ebea146da012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABI'])[1]/preceding::td[1]</value>
+      <webElementGuid>c5839776-91f3-460a-b5a4-3570e4f0b257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abbott'])[1]/preceding::td[2]</value>
+      <webElementGuid>78a0f4f3-71b5-4fe1-a27d-1e30b70e03bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td</value>
+      <webElementGuid>d3e96fa4-fdeb-4365-81e7-cb8e7c13a5bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

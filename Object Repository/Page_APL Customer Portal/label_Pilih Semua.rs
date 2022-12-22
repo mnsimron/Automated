@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Pilih Semua</name>
+   <tag></tag>
+   <elementGuidId>f25b866f-02c2-4ccb-a4e4-3821ddc2cd34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Keranjang Saya'])[1]/following::label[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b5933697-897a-4125-9a8e-4a59b1e547cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>pilih-semua</value>
+      <webElementGuid>1a32be98-93f3-4576-b75f-c83a8dfcbfc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Semua</value>
+      <webElementGuid>9805d5e5-aaae-4270-a08c-4059f1dd6bf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-list-cart[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-panel-full&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;checkbox-rekanan&quot;]/label[1]</value>
+      <webElementGuid>5a58af78-d09b-4af6-8fc5-d34ace652e0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8d4b26ee-ea3c-4578-bb2f-90b69910ef51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>pilih-semua</value>
+      <webElementGuid>f4a8e894-6a4a-4650-ba21-fe531c9a8b04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Semua</value>
+      <webElementGuid>7604129b-40fd-4b3c-a62e-b0c631f14fa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-list-cart[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-panel-full&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;checkbox-rekanan&quot;]/label[1]</value>
+      <webElementGuid>952e4ed7-7faa-487b-9d75-ed0b5fcc6b6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keranjang Saya'])[1]/following::label[1]</value>
+      <webElementGuid>2a652d9b-3d4e-4385-b7f4-ca1fdde7cfc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[2]/following::label[1]</value>
+      <webElementGuid>bb404805-6509-415e-a040-cc85da173093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[1]/preceding::label[1]</value>
+      <webElementGuid>00466c0b-d166-4e9f-a486-2709723395c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NATUR E ADVANCED LOTION 245 ML'])[2]/preceding::label[1]</value>
+      <webElementGuid>fe67a6f9-41b3-41f8-b2ce-f7edde50475d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilih Semua']/parent::*</value>
+      <webElementGuid>1107664d-19c3-43e7-babe-5661ae347c32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>d78d72e8-a7ac-495e-ac41-c4c6b788fadf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Pilih Semua' or . = 'Pilih Semua')]</value>
+      <webElementGuid>c7422665-3e5e-4e83-9363-954c7c78858b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

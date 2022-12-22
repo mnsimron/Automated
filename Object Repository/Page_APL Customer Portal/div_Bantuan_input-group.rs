@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bantuan_input-group</name>
+   <tag></tag>
+   <elementGuidId>8d24a45d-bafd-4e43-bd18-8113a7ca06d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Bantuan'])[1]/following::div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.input-group</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>edbd73fe-5969-45f8-b987-79587f68436d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-group</value>
+      <webElementGuid>3ca814b7-ab06-470a-850a-1dc357e1356c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-list-product[1]/div[@class=&quot;wrapper&quot;]/app-admin-header[1]/div[@class=&quot;main-header&quot;]/nav[@class=&quot;navbar navbar-header navbar-expand-lg&quot;]/div[@class=&quot;container-fluid&quot;]/div[1]/form[@class=&quot;navbar-left navbar-form nav-search mr-md-3 ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;input-group&quot;]</value>
+      <webElementGuid>dc05122c-b1ce-419e-b6f2-7382fbe7e4fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bantuan'])[1]/following::div[5]</value>
+      <webElementGuid>1bac0c4f-1e89-497d-ab68-076f62d026f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda punya 16 notifikasi baru!'])[1]/preceding::div[2]</value>
+      <webElementGuid>59089ee1-40a0-4abe-8fde-d0c4283b47c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Survey Rangga 7 Oktober 2022'])[1]/preceding::div[3]</value>
+      <webElementGuid>9b202a6a-2e83-4606-a656-c357ec225f6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>91dfe445-7f9d-4735-b2a5-3c01034dd29c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ngb-highlight_ARCH PROBE CONDITIONING</name>
+   <tag></tag>
+   <elementGuidId>5a5a99b0-bc98-4984-8eba-e7b433dc9dab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='ngb-typeahead-1-1']/ngb-highlight</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ngb-typeahead-1-1 > ngb-highlight</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ngb-highlight</value>
+      <webElementGuid>54fc7ed9-3f95-47df-96af-3f8a0a1cfde7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ARCH PROBE CONDITIONING</value>
+      <webElementGuid>928e40d8-84d0-46d3-8e3f-6a0791b3290e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ngb-typeahead-1-1&quot;)/ngb-highlight[1]</value>
+      <webElementGuid>e75b53f9-3769-455d-9a48-82a76285ea2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='ngb-typeahead-1-1']/ngb-highlight</value>
+      <webElementGuid>aeaeada9-7fcb-4598-a3bb-2332090c6c55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARCH PROBE'])[1]/following::ngb-highlight[1]</value>
+      <webElementGuid>7be47279-a116-4c37-8408-bcffeb88010e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARCH PROBE'])[3]/preceding::ngb-highlight[1]</value>
+      <webElementGuid>342d2ac1-87b3-4c3a-a272-4d5d037416d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CONDITIONING']/parent::*</value>
+      <webElementGuid>eb01d213-259f-46e9-b378-d4dbf4ca0d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/ngb-highlight</value>
+      <webElementGuid>b3f8ca68-ae5c-4911-a874-7607d58b7da4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ngb-highlight[(text() = 'ARCH PROBE CONDITIONING' or . = 'ARCH PROBE CONDITIONING')]</value>
+      <webElementGuid>2a167971-17d8-4981-b7b1-8f8f6a863646</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

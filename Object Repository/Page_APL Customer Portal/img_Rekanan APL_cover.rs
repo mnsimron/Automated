@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Rekanan APL_cover</name>
+   <tag></tag>
+   <elementGuidId>0f9290b7-3530-474e-9f37-612e9dc119da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://fsaplapq.blob.core.windows.net/rl-ezrx-catalog/principal/0A9CEC25-3E25-4247-A157-44ECA2037DD3.png?v=09012022034305')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.cover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>906ef3e7-18ef-43c1-ae45-dba7dc8dde4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cover</value>
+      <webElementGuid>9ac9595d-8ab0-43f9-a9b6-383c597e06ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://fsaplapq.blob.core.windows.net/rl-ezrx-catalog/principal/0A9CEC25-3E25-4247-A157-44ECA2037DD3.png?v=09012022034305</value>
+      <webElementGuid>ae4e033f-32a5-4cf1-a3d9-e63d659fdbbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-panel&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-2&quot;]/div[@class=&quot;card Rekanan&quot;]/a[@class=&quot;Rekanan-image&quot;]/img[@class=&quot;cover&quot;]</value>
+      <webElementGuid>f513d953-8d2f-4424-988c-bfbc5c33cf32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://fsaplapq.blob.core.windows.net/rl-ezrx-catalog/principal/0A9CEC25-3E25-4247-A157-44ECA2037DD3.png?v=09012022034305')]</value>
+      <webElementGuid>64a59202-f348-4fd8-a253-87934e9d3aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a/img</value>
+      <webElementGuid>b406b13b-9103-437b-9d4d-bcc0a9dea33d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://fsaplapq.blob.core.windows.net/rl-ezrx-catalog/principal/0A9CEC25-3E25-4247-A157-44ECA2037DD3.png?v=09012022034305']</value>
+      <webElementGuid>1fda36af-433d-465c-bcbb-8904686b8ced</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

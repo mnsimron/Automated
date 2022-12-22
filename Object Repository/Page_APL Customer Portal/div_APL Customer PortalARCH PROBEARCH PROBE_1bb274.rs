@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_APL Customer PortalARCH PROBEARCH PROBE_1bb274</name>
+   <tag></tag>
+   <elementGuidId>e48bfbc4-9c2b-4389-b117-406f8e555386</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/following::div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a53cee3a-c615-45b5-880a-1307dac7d852</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>9aa1f097-d2b2-443d-a21f-4b4a6d61aea2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>APL Customer PortalARCH PROBEARCH PROBERp. 3.912.000REKANANPT. ABBOTT PRODUCTSKETERSEDIAAN 0 KITED (EXPIRY DATE)-QTY Tambah Ke KeranjangBeli SekarangInformasi ProdukKomposisi :-Indikasi :-Aturan Pakai :-</value>
+      <webElementGuid>c05cfbbc-17eb-4efc-839f-137701b70666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-detail-product[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-panel-full&quot;]/div[@class=&quot;content&quot;]</value>
+      <webElementGuid>5867668f-1e07-46a3-83f9-8b477b092759</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/following::div[2]</value>
+      <webElementGuid>8de71ab4-4a85-4b3a-97d6-e65780e55d20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::div[3]</value>
+      <webElementGuid>d0ed3eb5-1d7b-4086-a4f7-79704216c5cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div</value>
+      <webElementGuid>8500d7de-6efe-4768-8330-615670be5427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'APL Customer PortalARCH PROBEARCH PROBERp. 3.912.000REKANANPT. ABBOTT PRODUCTSKETERSEDIAAN 0 KITED (EXPIRY DATE)-QTY Tambah Ke KeranjangBeli SekarangInformasi ProdukKomposisi :-Indikasi :-Aturan Pakai :-' or . = 'APL Customer PortalARCH PROBEARCH PROBERp. 3.912.000REKANANPT. ABBOTT PRODUCTSKETERSEDIAAN 0 KITED (EXPIRY DATE)-QTY Tambah Ke KeranjangBeli SekarangInformasi ProdukKomposisi :-Indikasi :-Aturan Pakai :-')]</value>
+      <webElementGuid>d1f70161-0f80-4360-8d7f-58b2dcabba8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

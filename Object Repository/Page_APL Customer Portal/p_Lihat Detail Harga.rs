@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Lihat Detail Harga</name>
+   <tag></tag>
+   <elementGuidId>73cafe7c-da1e-4c65-85fa-9b2ff926ea61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='btn-detail-harga']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn-detail-harga</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b503f94c-1333-4188-80fa-235a0b5ef033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ml-0 mb-0</value>
+      <webElementGuid>3310c145-f1ff-484d-ab0d-df7a32ff7265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn-detail-harga</value>
+      <webElementGuid>73c2ed38-de22-4003-9bdb-44859732caa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8a7c6b69-54dd-41d7-9092-4c2047e79170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Detail Harga </value>
+      <webElementGuid>8c2a84a1-f6aa-4e9e-9c92-72b2813a10ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn-detail-harga&quot;)</value>
+      <webElementGuid>f000213b-9730-4e04-907b-3627c1c14799</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='btn-detail-harga']</value>
+      <webElementGuid>187c068d-f655-4339-b740-fcfeb9effcc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 124.640'])[1]/following::p[1]</value>
+      <webElementGuid>97438a48-db65-4933-933f-093d516b40ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RINGKASAN'])[1]/following::p[2]</value>
+      <webElementGuid>befeb559-c743-4543-bab0-cecbcc4fc220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHECKOUT'])[1]/preceding::p[1]</value>
+      <webElementGuid>517df76b-acba-4300-821f-7f31052cb48b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UPDATE KERANJANG'])[1]/preceding::p[1]</value>
+      <webElementGuid>61427873-f1f6-481c-be1d-125077652112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lihat Detail Harga']/parent::*</value>
+      <webElementGuid>61575bd4-5b46-444d-bfdb-7faef886f5ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/p</value>
+      <webElementGuid>7121e8b8-8ec8-4f61-ba44-552f91fadf49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'btn-detail-harga' and @type = 'button' and (text() = 'Lihat Detail Harga ' or . = 'Lihat Detail Harga ')]</value>
+      <webElementGuid>af270cdb-cd14-427a-a785-0d6614cd5ce0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

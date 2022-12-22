@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Memiliki minimal 1 karakter spesial (())__86cd6e</name>
+   <tag></tag>
+   <elementGuidId>d1b4de6d-f61c-4731-942c-4fe2d613bfb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Memiliki minimal 1 karakter spesial (=!@#$%^&amp;*()~|&lt;>{}[])'])[1]/following::a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.menu-toggler.responsive-toggler</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c2a088e1-3ef3-41ea-b10a-1801faaaffdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>d68f789a-1915-4280-9dc7-677524be3723</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-toggler responsive-toggler</value>
+      <webElementGuid>27694361-af12-4aa8-84f1-b6eceecde37f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>afd60bba-ef34-461b-bcb2-c4777c3ecf9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>.navbar-collapse</value>
+      <webElementGuid>90631f99-27c5-4950-adac-43f609aa845e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-header-fixed page-sidebar-closed-hide-logo page-sidebar-fixed&quot;]/div[@class=&quot;page-header navbar navbar-fixed-top&quot;]/div[@class=&quot;page-header-inner&quot;]/a[@class=&quot;menu-toggler responsive-toggler&quot;]</value>
+      <webElementGuid>7699bc01-3a5f-46f1-b068-43e49ce51df1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Memiliki minimal 1 karakter spesial (=!@#$%^&amp;*()~|&lt;>{}[])'])[1]/following::a[3]</value>
+      <webElementGuid>d650e3c1-2c65-4295-b330-b3af667891cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Memiliki minimal 1 angka (0-9), dan'])[1]/following::a[3]</value>
+      <webElementGuid>a48898aa-4cb8-42ff-8a51-967cbc8becbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ace'])[1]/preceding::a[2]</value>
+      <webElementGuid>8219535f-fc7b-4d46-af55-2ece648a5fd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SADM'])[1]/preceding::a[2]</value>
+      <webElementGuid>df5183e9-81cc-4b4b-8f0b-092dcc1e9382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:;')]</value>
+      <webElementGuid>0d4771fb-8205-43f0-93ac-49c619f5eafa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>3c452bd7-ebb8-474c-b6f1-16192244bc45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:;']</value>
+      <webElementGuid>971269e0-d2be-4aa0-add2-3686ed4ced61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

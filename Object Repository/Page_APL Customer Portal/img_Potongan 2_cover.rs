@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Potongan 2_cover</name>
+   <tag></tag>
+   <elementGuidId>816fc914-4376-4410-a41c-85a63dbc98eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://fsaplapq.blob.core.windows.net/rl-ezrx-catalog/product/EEE393CC-7F94-42C6-98EF-4AE99C493D4C.jpg?v=1662972683')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a > img.cover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>d7979d2f-5925-40be-ba8f-1d651ee5ea14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cover</value>
+      <webElementGuid>9647eb90-1884-4205-8a29-fea094c9ccf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://fsaplapq.blob.core.windows.net/rl-ezrx-catalog/product/EEE393CC-7F94-42C6-98EF-4AE99C493D4C.jpg?v=1662972683</value>
+      <webElementGuid>a24db278-04bb-4dab-8e1f-b1d770e2fa47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-list-product[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-panel&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;card ribbon&quot;]/div[@class=&quot;product-home&quot;]/a[1]/img[@class=&quot;cover&quot;]</value>
+      <webElementGuid>3d313126-0ac1-474b-8746-7a192d088c50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://fsaplapq.blob.core.windows.net/rl-ezrx-catalog/product/EEE393CC-7F94-42C6-98EF-4AE99C493D4C.jpg?v=1662972683')]</value>
+      <webElementGuid>ae98a119-6f60-4532-b867-b10952ebcbca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/a/img</value>
+      <webElementGuid>6ab29882-c09f-496f-83e8-b96e3e745354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://fsaplapq.blob.core.windows.net/rl-ezrx-catalog/product/EEE393CC-7F94-42C6-98EF-4AE99C493D4C.jpg?v=1662972683']</value>
+      <webElementGuid>ad193c1b-b030-4741-91fb-fa32068e32d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

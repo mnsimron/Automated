@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_ARCH PROBE CONDITIONING_fa fa-minus</name>
+   <tag></tag>
+   <elementGuidId>f33ec548-ad7d-42b0-bf32-a8ff2d0f02fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='minus-btn']/i)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6a3a406e-75c7-4477-a13e-8953a05f1a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-minus</value>
+      <webElementGuid>219f4ca6-725e-4c81-a7a7-a3be6e67d4e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-list-cart[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-panel-full&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;qty-cart&quot;]/div[@class=&quot;input-group mb-3 toggle&quot;]/div[@class=&quot;input-group-prepend&quot;]/button[@id=&quot;minus-btn&quot;]/i[@class=&quot;fa fa-minus&quot;]</value>
+      <webElementGuid>1727d242-4639-43f1-bb0e-03aa31be711a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//button[@id='minus-btn']/i)[2]</value>
+      <webElementGuid>a5376c68-cea8-4f53-91b4-1b61760caaad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div/button/i</value>
+      <webElementGuid>79d9c0ab-0369-4be7-9412-3268be9dbc1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
