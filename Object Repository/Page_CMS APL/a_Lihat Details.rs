@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lihat Details</name>
+   <tag></tag>
+   <elementGuidId>ba02fb15-cb95-4949-bfae-bcf33fa34296</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-block.btn-sm.blue</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;Utility.LoadMenu('/CMS/Template/Edit/?Id=07654b12-cba4-475e-b168-b03f4a39fa16')&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>024282ca-7a07-485b-9eba-49bf7b9c2518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-block btn-sm blue</value>
+      <webElementGuid>1603ad1b-20be-4c76-8690-bbcdeac7855a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>858bc694-c914-468b-a741-06b99a080908</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>Utility.LoadMenu('/CMS/Template/Edit/?Id=07654b12-cba4-475e-b168-b03f4a39fa16')</value>
+      <webElementGuid>1de0d3ea-ee5c-4302-8e06-fbf16bcc9f13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Details</value>
+      <webElementGuid>f3456a3c-2ce7-4bd0-881c-46e72b7dc553</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TableTemplate&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;sorting_1&quot;]/a[@class=&quot;btn btn-block btn-sm blue&quot;]</value>
+      <webElementGuid>9a7a8aaa-aace-42fa-9985-022d3a617937</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;Utility.LoadMenu('/CMS/Template/Edit/?Id=07654b12-cba4-475e-b168-b03f4a39fa16')&quot;]</value>
+      <webElementGuid>0f51ea14-01fe-4e3e-8cbd-8abc5ae5d8bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='TableTemplate']/tbody/tr/td/a</value>
+      <webElementGuid>85c6b05b-a4c7-4541-bad4-3c882434d486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lihat Details')]</value>
+      <webElementGuid>4d2f2819-b3cf-492e-aa4a-cd723283b628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Content'])[1]/following::a[1]</value>
+      <webElementGuid>84fdfe3f-e1e1-41b2-b220-f64af6a9417b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[1]/following::a[1]</value>
+      <webElementGuid>4ecb998d-8995-413f-b802-74def455318e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GT / General Trade'])[1]/preceding::a[1]</value>
+      <webElementGuid>338398af-9e19-4b4e-a09e-4b7384744f20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer General Trade'])[1]/preceding::a[1]</value>
+      <webElementGuid>682f4742-2099-47f4-853a-a9d10de3d51a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lihat Details']/parent::*</value>
+      <webElementGuid>94ca93a2-26e5-48dd-88d6-e12ef872fd23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[64]</value>
+      <webElementGuid>2d019ebe-336e-411b-bccf-c50d19b6619a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>5eb8d3cf-6e5a-4cf2-990f-62bd011001fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Lihat Details' or . = 'Lihat Details')]</value>
+      <webElementGuid>29889723-2ba2-4cdc-ab4f-31b6900c9a79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p (1)</name>
+   <tag></tag>
+   <elementGuidId>fc80d38a-c700-47e4-b58c-a3c859981b57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='FormCreateProduct']/div/div/div[3]/div/div/div/div[3]/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c922ed00-d084-4be3-9aae-01f443713dc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FormCreateProduct&quot;)/div[@class=&quot;form-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;note-editor note-frame panel panel-default&quot;]/div[@class=&quot;note-editing-area&quot;]/div[@class=&quot;note-editable&quot;]/p[1]</value>
+      <webElementGuid>31b81dc8-1cc3-4664-b149-07aae3c4421f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='FormCreateProduct']/div/div/div[3]/div/div/div/div[3]/div[2]/p</value>
+      <webElementGuid>cfdaabd1-c6c9-431e-a4f4-45b1342715d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[4]/following::p[1]</value>
+      <webElementGuid>4ef1857b-728c-4e03-84f2-7788460ed073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset to default'])[2]/following::p[1]</value>
+      <webElementGuid>a195062f-1996-4f62-85d2-ae480323afbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insert Link'])[2]/preceding::p[1]</value>
+      <webElementGuid>88af9f08-fbd9-4462-a6cf-1e48551239ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text to display'])[2]/preceding::p[1]</value>
+      <webElementGuid>41fad5dd-ad3c-4656-813c-8675a2eef94b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[3]/div[2]/p</value>
+      <webElementGuid>032ed6a2-7900-429e-8472-4a5bfd9e9c86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

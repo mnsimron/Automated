@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_List Principal_fa fa-plus</name>
+   <tag></tag>
+   <elementGuidId>60b99a37-0251-4048-bd3b-bef65bb35378</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-plus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='render-body']/div[3]/div/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>41b09c6d-4ffb-4abf-afbf-67e179e03e78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus</value>
+      <webElementGuid>6b5283aa-2cf6-46cf-9d06-d42f2e1b6006</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;render-body&quot;)/div[@class=&quot;portlet light shadow&quot;]/div[@class=&quot;portlet-title&quot;]/div[@class=&quot;btn-act-list&quot;]/a[@class=&quot;btn btn-padd2 green margin-right-10 margin-bottom-10&quot;]/i[@class=&quot;fa fa-plus&quot;]</value>
+      <webElementGuid>2f69db64-0421-406c-9606-4d16dba43317</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='render-body']/div[3]/div/div/a/i</value>
+      <webElementGuid>64905d64-ef6e-4db5-a7a1-449d80275adf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/i</value>
+      <webElementGuid>992a2ae8-562c-4eaa-9031-758081d64ba7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
