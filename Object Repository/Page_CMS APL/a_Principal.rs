@@ -6,12 +6,12 @@
    <elementGuidId>b213c341-cbf3-4b21-ae00-e2c713d8e50b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//ul[@id='side-menu']/li[6]/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='side-menu']/li[6]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>0d6d734e-06fe-45da-ad53-2f63b9ff5f1d</webElementGuid>
+      <webElementGuid>4c647328-a2ee-4e5a-8f4e-9c6aee6deb49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,10 +30,42 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript;</value>
-      <webElementGuid>dc901fd5-4c70-4ade-982e-991ec47ee7e1</webElementGuid>
+      <webElementGuid>4454c00d-e1b0-4cdb-b0e5-0a8ce0e825df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Principal</value>
+      <webElementGuid>8a5589aa-6d6a-4301-a770-edd4a5062a8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;side-menu&quot;)/li[6]/a[1]</value>
+      <webElementGuid>541fce44-691a-406b-9c9c-aced07ad6c20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0d6d734e-06fe-45da-ad53-2f63b9ff5f1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript;</value>
+      <webElementGuid>dc901fd5-4c70-4ade-982e-991ec47ee7e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -582,7 +614,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='side-menu']/li[6]/a</value>
-      <webElementGuid>f58f541e-2298-4116-8b5c-c6550f5f2bcb</webElementGuid>
+      <webElementGuid>43c80c62-8dbe-44b1-965a-dcaebcc9ed4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -590,7 +622,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/following::a[3]</value>
-      <webElementGuid>7a16b3a2-b752-42df-b8ae-91841e663427</webElementGuid>
+      <webElementGuid>60e1d807-af65-4bd0-a537-19871fc7c956</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -598,7 +630,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/following::a[11]</value>
-      <webElementGuid>b8af5ffc-e69d-4eef-b575-92b8e2fb5f9c</webElementGuid>
+      <webElementGuid>89e5e923-07e8-4e6a-bf48-dd341c6f1a9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -606,7 +638,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Setting'])[1]/preceding::a[2]</value>
-      <webElementGuid>8d6b2f60-2fe4-444a-9543-a575a924fc7d</webElementGuid>
+      <webElementGuid>ca5f65c5-aa03-4c39-9d9f-8eaebef00895</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -614,7 +646,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript;')])[5]</value>
-      <webElementGuid>7c67f54a-c7cb-4ed3-8075-f64df1c0e5b8</webElementGuid>
+      <webElementGuid>d6eab7bc-6be8-495a-b8aa-98990a276239</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -622,7 +654,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/a</value>
-      <webElementGuid>2fb530a6-473a-424f-9efc-bcb33bf4d928</webElementGuid>
+      <webElementGuid>52511443-47aa-4ccd-b563-8430c65dc48c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -630,7 +662,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'javascript;' and (text() = 'Principal' or . = 'Principal')]</value>
-      <webElementGuid>25c0fdde-f539-422d-83ec-822fd16006e8</webElementGuid>
+      <webElementGuid>6cf9078b-444e-49fa-ba07-f5ecae402e67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

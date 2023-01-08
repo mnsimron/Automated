@@ -19,6 +19,10 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.closeBrowser()
+
+WebUI.openBrowser('')
+
 WebUI.navigateToUrl('https://apq.ezrx.id/CMS/Account/Login?ReturnUrl=%2FCMS%2FHome')
 
 WebUI.setText(findTestObject('Object Repository/Page_eZRX  Login page/input_Username_username'), 'ace')
@@ -27,19 +31,21 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_eZRX  Login page/i
 
 WebUI.click(findTestObject('Object Repository/Page_eZRX  Login page/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Page_CMS APL/span_Principal'))
-
 WebUI.click(findTestObject('Object Repository/Page_CMS APL/a_Principal'))
 
-WebUI.click(findTestObject('Object Repository/Page_CMS APL/a_Add'))
+WebUI.click(findTestObject('Object Repository/Page_CMS APL/a_Principal_1'))
 
-WebUI.setText(findTestObject('Object Repository/Page_CMS APL/input_Code_Code'), 'tests')
+WebUI.click(findTestObject('Object Repository/Page_CMS APL/i_List Principal_fa fa-plus'))
 
-WebUI.click(findTestObject('Object Repository/Page_CMS APL/input_Url_Url'))
+WebUI.setText(findTestObject('Object Repository/Page_CMS APL/input_Code_Code'), 'testsss')
+
+WebUI.click(findTestObject('Object Repository/Page_CMS APL/div_Url                                    _2db0db'))
 
 WebUI.setText(findTestObject('Object Repository/Page_CMS APL/input_Url_Url'), 'https://www.google.com/')
 
-WebUI.setText(findTestObject('Object Repository/Page_CMS APL/textarea_Description_Description'), '123')
+WebUI.setText(findTestObject('Object Repository/Page_CMS APL/textarea_Description_Description'), '12345')
+
+WebUI.click(findTestObject('Object Repository/Page_CMS APL/img'))
 
 WebUI.click(findTestObject('Object Repository/Page_CMS APL/button_Save'))
 

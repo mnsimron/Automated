@@ -21,45 +21,39 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://apq.ezrx.id/CMS/Account/Login?ReturnUrl=%2FCMS%2FHome')
 
-WebUI.setText(findTestObject('Object Repository/Page_eZRX  Login page/input_Username_username'), 'ace')
+WebUI.setText(findTestObject('Object Repository/Page_eZRX  Login page/input_Username_username (1)'), 'ace')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_eZRX  Login page/input_Password_password'), 'liSTkvaEvsTwAdgpFhbvKQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_eZRX  Login page/input_Password_password (1)'), 'liSTkvaEvsTwAdgpFhbvKQ==')
 
-WebUI.click(findTestObject('Object Repository/Page_eZRX  Login page/button_Login'))
+WebUI.click(findTestObject('Object Repository/Page_eZRX  Login page/button_Login (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_CMS APL/a_Product'))
+WebUI.click(findTestObject('Object Repository/Page_CMS APL/a_Product (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_CMS APL/a_Product_1'))
+WebUI.click(findTestObject('Object Repository/Page_CMS APL/a_Product_1 (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_CMS APL/a_Add'))
+WebUI.click(findTestObject('Object Repository/Page_CMS APL/a_Add (1)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_CMS APL/input_Product Code_ProductName'), 'du')
+WebUI.setText(findTestObject('Object Repository/Page_CMS APL/input_Product Code_ProductName (1)'), 'du')
 
-WebUI.click(findTestObject('Object Repository/Page_CMS APL/li_DUODERM CGF DRS 10X10CM (1X5PK) NAI'))
+WebUI.click(findTestObject('Object Repository/Page_CMS APL/li_DUMMY ELECTRODES COMP(1PC)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_CMS APL/input_Product Code_ProductName'), 'DUODERM CGF DRS 10X10CM (1X5PK) NAI')
+WebUI.setText(findTestObject('Object Repository/Page_CMS APL/input_Product Code_ProductName (1)'), 'DUMMY ELECTRODES COMP(1PC)')
 
-WebUI.click(findTestObject('Object Repository/Page_CMS APL/p'))
+WebUI.setText(findTestObject('Object Repository/Page_CMS APL/div_testing (1)'), '<p>testing</p>')
 
-WebUI.setText(findTestObject('Object Repository/Page_CMS APL/div_testing'), '<p style="">testing</p>')
+WebUI.click(findTestObject('Object Repository/Page_CMS APL/p (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_CMS APL/p'))
+WebUI.setText(findTestObject('Object Repository/Page_CMS APL/div_testing (1)'), '<p style="">testing</p>')
 
-WebUI.setText(findTestObject('Object Repository/Page_CMS APL/div_test'), '<p style="">test</p>')
+WebUI.click(findTestObject('Object Repository/Page_CMS APL/p (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_CMS APL/p'))
+WebUI.setText(findTestObject('Object Repository/Page_CMS APL/div_testt'), '<p style="">testt</p>')
 
-WebUI.setText(findTestObject('Object Repository/Page_CMS APL/div_tess'), '<p style="">tess</p>')
+WebUI.click(findTestObject('Object Repository/Page_CMS APL/p (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_CMS APL/p'))
+WebUI.setText(findTestObject('Object Repository/Page_CMS APL/div_this'), '<p style="">this</p>')
 
-WebUI.setText(findTestObject('Object Repository/Page_CMS APL/div_tesas'), '<p style="">tesas</p>')
+WebUI.click(findTestObject('Object Repository/Page_CMS APL/button_Save (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_CMS APL/button_Save'))
-
-WebUI.click(findTestObject('Object Repository/Page_CMS APL/div_Product Code                           _0e65cb'))
-
-WebUI.click(findTestObject('Object Repository/Page_CMS APL/button_Save'))
-
-WebUI.click(findTestObject('Object Repository/Page_CMS APL/a_Dashboard'))
+WebUI.closeBrowser()
 

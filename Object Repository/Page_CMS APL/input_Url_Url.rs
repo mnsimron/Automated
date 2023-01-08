@@ -6,16 +6,128 @@
    <elementGuidId>cbf230eb-ef32-4bab-843f-e4a2ce49e51f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='Url']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#Url</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='Url']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1ecb112a-7fa5-4bd7-b290-95ab603acb56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>ef756bd2-6837-42b1-8b4d-a15c71ac1e62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>required</name>
+      <type>Main</type>
+      <value>required</value>
+      <webElementGuid>4ff892fd-cac2-428b-858d-c98123cc3ae0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>a05d7e80-b46f-40b0-85d0-c946d81fb0a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dj-validator</name>
+      <type>Main</type>
+      <value>url,200</value>
+      <webElementGuid>e8889cdf-0d11-4a0f-b7a6-d1f3a7bce6ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>5198e236-f100-4db2-abea-a97338473abf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6681b3e1-3116-4ccb-99d2-9ee910486391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-maxlength</name>
+      <type>Main</type>
+      <value>The field Url must be a string or array type with a maximum length of '200'.</value>
+      <webElementGuid>d413f931-efa2-4579-b883-3268d5227d65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-maxlength-max</name>
+      <type>Main</type>
+      <value>200</value>
+      <webElementGuid>81d853ad-f5eb-4a6f-a1c4-329184c70ee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>The Url field is required.</value>
+      <webElementGuid>6698748d-613e-4ff0-95db-c7418ce1ab23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Url</value>
+      <webElementGuid>da162810-b93e-4c57-acce-85c769c5591d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>200</value>
+      <webElementGuid>595599d7-1f7b-4b21-91e9-1f505564ad4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Url</value>
+      <webElementGuid>0054e18d-6013-43b6-a4d4-5822a5e6751c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Url&quot;)</value>
+      <webElementGuid>23461810-e39b-4009-a057-e9a60bf52a14</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -57,7 +169,7 @@
       <webElementGuid>0e079d26-4aa6-47c2-9e79-d81ee09fbbcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -97,7 +209,7 @@
       <webElementGuid>c21445ba-1efc-4277-b9ba-8115e149d9f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -113,7 +225,7 @@
       <webElementGuid>b286dec6-9c37-4025-a6e1-3799b8889b79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
@@ -246,7 +358,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='Url']</value>
-      <webElementGuid>d3bb4fba-2495-4a79-bc69-a51bb74aaca7</webElementGuid>
+      <webElementGuid>a85bfd85-70d7-4ee5-a786-f499c0bc6028</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -254,7 +366,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='FormCreatePrincipal']/div/div/div[2]/div/div/input</value>
-      <webElementGuid>c68a2b58-7f36-4d8c-a3f8-8b9547de6f66</webElementGuid>
+      <webElementGuid>276c48b6-2e5f-4602-a38c-2712274c385d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -262,7 +374,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[2]/div/div/input</value>
-      <webElementGuid>b70e717d-0dea-4edd-806a-2acced1851d7</webElementGuid>
+      <webElementGuid>9ea04c5e-e82b-414e-a959-8342b17cca29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -270,6 +382,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'Url' and @name = 'Url']</value>
-      <webElementGuid>1cb6b5a9-246e-4911-ab9d-d51d4c603105</webElementGuid>
+      <webElementGuid>bd0990fe-b777-4355-bee7-25124a4dcc5c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

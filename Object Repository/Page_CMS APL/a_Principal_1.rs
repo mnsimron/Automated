@@ -6,12 +6,12 @@
    <elementGuidId>0598f4fe-b42a-47b3-b7de-1400a64cb8e4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@onclick=&quot;Utility.LoadMenu('/CMS/Principal/')&quot;]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#Principal > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;Utility.LoadMenu('/CMS/Principal/')&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,10 +22,50 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4b2570f1-9eef-41e5-8518-bbc8172dae40</webElementGuid>
+      <webElementGuid>672b104b-9c6e-4da0-8ef6-c3a53059bf89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>8cf7e081-77f0-41ea-8188-4cf32f845d4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>Utility.LoadMenu('/CMS/Principal/')</value>
+      <webElementGuid>a7c1dd33-631e-41d1-8e4a-e0c28649e4d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Principal</value>
+      <webElementGuid>1036faf2-77d5-4308-9255-ce4cb8c38baf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Principal&quot;)/a[1]</value>
+      <webElementGuid>50e0e7ea-57c8-4173-82f5-cf2c6ec6ca59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4b2570f1-9eef-41e5-8518-bbc8172dae40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
@@ -41,7 +81,7 @@
       <webElementGuid>07bbb647-6e98-47bf-84a8-211d6a6d12e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -622,7 +662,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@onclick=&quot;Utility.LoadMenu('/CMS/Principal/')&quot;]</value>
-      <webElementGuid>31d60007-0d67-43a6-80c1-781d7c9147e0</webElementGuid>
+      <webElementGuid>243e326a-e141-4d0f-b3df-70fd323f5fdd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -630,7 +670,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='Principal']/a</value>
-      <webElementGuid>4a3d0596-a5d7-4a9d-8ddd-07d6f7c5ed21</webElementGuid>
+      <webElementGuid>cb504803-4d75-498e-aaa9-e5b27f13feee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -638,7 +678,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Principal')])[2]</value>
-      <webElementGuid>cf2662f9-e47e-4874-b631-4ab2bd72aac2</webElementGuid>
+      <webElementGuid>dc8519c4-1732-4405-bf1c-934e5ac1eb2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -646,7 +686,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Principal'])[1]/following::a[1]</value>
-      <webElementGuid>a5acfb01-daf6-4c97-a6f6-8d7dbb8aa1a7</webElementGuid>
+      <webElementGuid>38ee2795-a6f9-4579-bf7e-ca45c5217888</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -654,7 +694,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/following::a[4]</value>
-      <webElementGuid>11145649-9e08-4cb1-9812-73c2b0394eaa</webElementGuid>
+      <webElementGuid>5b014b75-05c2-4c02-9c1d-574f4d9b4c11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -662,7 +702,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Setting'])[1]/preceding::a[1]</value>
-      <webElementGuid>4ebd98e3-bc8f-434e-8986-1bf43d646321</webElementGuid>
+      <webElementGuid>1bbc5c98-a936-42b7-88be-c8c8aa988358</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -670,7 +710,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='System Admin'])[1]/preceding::a[6]</value>
-      <webElementGuid>69ff41a3-ab75-45f1-8333-50438e3e92f1</webElementGuid>
+      <webElementGuid>f9344a32-5c29-47fc-b456-e641c5bd20a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -678,7 +718,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[27]</value>
-      <webElementGuid>5bd85f39-4e64-47e2-a626-6ae6973dc837</webElementGuid>
+      <webElementGuid>39f6a6a1-50c3-4412-b632-285c720c71e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -686,7 +726,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/ul/li/a</value>
-      <webElementGuid>3582a86c-5b6a-410b-99fb-21cfad2abdb4</webElementGuid>
+      <webElementGuid>3e259a90-8110-4988-b4ca-07a0ea70534a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -694,7 +734,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'Principal' or . = 'Principal')]</value>
-      <webElementGuid>1ddfd194-ea9b-4cb8-9b20-64d93250d4b5</webElementGuid>
+      <webElementGuid>6d1aab58-4d99-4a44-9e2a-2ad0f369a22b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

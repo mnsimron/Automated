@@ -23,6 +23,8 @@ WebUI.navigateToUrl('https://apq.ezrx.id/CMS/Account/Login?ReturnUrl=%2FCMS%2FHo
 
 WebUI.setText(findTestObject('Object Repository/Page_eZRX  Login page/input_Username_username'), 'ace')
 
+WebUI.closeBrowser()
+
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_eZRX  Login page/input_Password_password'), 'liSTkvaEvsTwAdgpFhbvKQ==')
 
 WebUI.click(findTestObject('Object Repository/Page_eZRX  Login page/button_Login'))
@@ -36,6 +38,4 @@ WebUI.click(findTestObject('Object Repository/Page_CMS APL/a_Add'))
 WebUI.setText(findTestObject('Object Repository/Page_CMS APL/textarea_Description_Description'), 'Testing')
 
 WebUI.click(findTestObject('Object Repository/Page_CMS APL/input_Save_btn btn-padd2 grey-cascade'))
-
-WebUI.closeBrowser()
 

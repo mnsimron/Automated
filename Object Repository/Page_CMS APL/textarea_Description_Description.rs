@@ -6,16 +6,88 @@
    <elementGuidId>e94cde26-21e7-4dcb-bccf-77824cd485b8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//textarea[@id='Description']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#Description</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@id='Description']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>e15034da-f679-4b56-8ff6-446c5bb5ae82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>4ed7d795-bc23-49a4-8876-2499dfef3b4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>01802142-a56c-4f88-a6a1-28a8a2a2c7d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-maxlength</name>
+      <type>Main</type>
+      <value>The field Description must be a string or array type with a maximum length of '5000'.</value>
+      <webElementGuid>9d676e22-1681-4d9c-8948-2f6e3b818a4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-maxlength-max</name>
+      <type>Main</type>
+      <value>5000</value>
+      <webElementGuid>6aa29b67-de8c-44bc-8a68-b24761279868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Description</value>
+      <webElementGuid>00c01a8d-d279-4261-98a1-4482200ebb0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>5000</value>
+      <webElementGuid>26dc5584-7252-49c8-8557-7d616d813c76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Description</value>
+      <webElementGuid>4e4a77f9-fae7-4465-80cf-1a8fa92f97d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Description&quot;)</value>
+      <webElementGuid>7347ddeb-73b4-4d0e-b8a6-d1cc0d0ca237</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +105,7 @@
       <webElementGuid>54994c43-1e8d-4cf3-9c51-d13bd10e4e2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -41,7 +113,7 @@
       <webElementGuid>b4433017-9250-4839-9175-da4e7828e17f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
@@ -246,7 +318,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='Description']</value>
-      <webElementGuid>ff248aaf-09f2-4a82-804a-da8f262801a4</webElementGuid>
+      <webElementGuid>8a88071b-9434-4b4b-9358-e2eb29d62300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='FormCreatePrincipal']/div/div/div[3]/div/div/textarea</value>
+      <webElementGuid>317d9b75-d6ff-4793-84a8-e0bb4f58cae8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>f272e33f-634d-4406-81a9-4ae2fd452ebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'Description' and @name = 'Description']</value>
+      <webElementGuid>c37ebf48-4514-4d62-8184-cf514fff5e6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -255,29 +351,5 @@
       <type>Main</type>
       <value>//form[@id='FormCreateTemplateOrder']/div/div/div[2]/div/div/textarea</value>
       <webElementGuid>b82661c4-afa5-42ca-bc42-9332e9bb0681</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//textarea</value>
-      <webElementGuid>6fbc8229-e100-4696-8210-4551060ea9b9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//textarea[@id = 'Description' and @name = 'Description']</value>
-      <webElementGuid>6769e1fd-89e4-4f28-a083-a03733f3ae26</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//form[@id='FormCreatePrincipal']/div/div/div[3]/div/div/textarea</value>
-      <webElementGuid>8dc19cc2-7816-40a0-a122-5acc5f947f92</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

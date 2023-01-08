@@ -6,16 +6,120 @@
    <elementGuidId>cd0ba7fd-9479-4aad-81b7-cb14f8a51671</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='Code']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#Code</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='Code']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>8dcad6c7-977a-4035-8a0e-5db4923a3055</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>cf0f52ad-5d4c-4ae7-859e-52d903cf457a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c8470bf1-ed00-4b31-8d0e-f0c8876e6bd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>required</name>
+      <type>Main</type>
+      <value>required</value>
+      <webElementGuid>9fe7e10d-6a02-4380-bc34-323571e3853a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>fe305387-5ae8-4fd2-afe1-eab7844965d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>7a627e34-8191-44eb-8569-c8fae51dcf97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-maxlength</name>
+      <type>Main</type>
+      <value>The field Code must be a string or array type with a maximum length of '500'.</value>
+      <webElementGuid>20441753-778b-418f-9bee-4eac314565b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-maxlength-max</name>
+      <type>Main</type>
+      <value>500</value>
+      <webElementGuid>303ea68c-8b9f-4a93-abb3-d500c49a9a42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>The Code field is required.</value>
+      <webElementGuid>f94fbef3-639e-453f-b820-c055d77abee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Code</value>
+      <webElementGuid>d5f10193-8a50-49c4-ba90-c0607c566013</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>500</value>
+      <webElementGuid>9accd1e9-c59c-44b0-ae20-ebe01c1cd79d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Code</value>
+      <webElementGuid>d7fbd007-63e9-4ee1-b424-45ac5eed4217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Code&quot;)</value>
+      <webElementGuid>21d14f3d-a708-4124-8927-e8f000d432a9</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +137,7 @@
       <webElementGuid>56f17331-0180-479f-aae2-22cbede14da1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -89,7 +193,7 @@
       <webElementGuid>98d7ca32-4633-4718-b003-2f1acb1ddb79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -105,7 +209,7 @@
       <webElementGuid>803871b7-870f-4275-8791-a1c4d407aff9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
@@ -230,7 +334,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='Code']</value>
-      <webElementGuid>e12f588c-ed7e-4581-8a1f-ca02245eb152</webElementGuid>
+      <webElementGuid>876d2aeb-0992-4183-ac89-0149ea12030f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -238,7 +342,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='FormCreatePrincipal']/div/div/div/div/div/input</value>
-      <webElementGuid>c8b74419-a9db-4ee5-8ed9-837376a72c44</webElementGuid>
+      <webElementGuid>e3a69753-76f1-4f87-b617-06ad0e3f8e34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -246,7 +350,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>e80a7739-d106-488c-994e-84862cdd7857</webElementGuid>
+      <webElementGuid>69809e4b-0dc1-4559-8df6-681bddb25da1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -254,6 +358,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'Code' and @name = 'Code']</value>
-      <webElementGuid>54048f68-1cb2-4dc0-bbb2-336ca00a30b9</webElementGuid>
+      <webElementGuid>3f4f082f-7056-42ce-affe-cf715fe399a3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
