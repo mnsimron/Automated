@@ -6,16 +6,72 @@
    <elementGuidId>c588ef3c-cf85-4db3-9b1f-a4514f5ee5c5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;username&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@name='username']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;username&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f8879838-828a-465c-8a1d-e308c567c07f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>0348d03d-a5c8-4ecc-bdd6-3bf4d2bb9bb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>ab2aade9-00e9-481b-9022-8ebd43a46add</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>ID Pelanggan</value>
+      <webElementGuid>0a62b75c-945c-4b6e-9edc-b5fec07b855a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9f17ef77-d540-48f5-9558-0166655107fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-name</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>40c3214c-9a0e-4c34-9899-bec03e614946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-login&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form&quot;]/form[@class=&quot;login-page ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;form-group has-form2&quot;]/input[@class=&quot;form-control ng-untouched ng-pristine ng-invalid&quot;]</value>
+      <webElementGuid>b501b5f6-2a99-488a-b223-efadc88f856c</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +89,7 @@
       <webElementGuid>b2bf9cfc-5806-4687-b138-18c635f59c60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
@@ -41,7 +97,7 @@
       <webElementGuid>776d2b83-e9ca-4ae5-8e68-693d211651fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
@@ -49,7 +105,7 @@
       <webElementGuid>202964a7-3906-4fd0-86a7-c33c6a1aae22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -1870,7 +1926,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='username']</value>
-      <webElementGuid>a9266dbe-8bb9-4033-897b-a470ca65a5c9</webElementGuid>
+      <webElementGuid>846e72a5-5cda-4a02-912f-89fdca903f2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1878,7 +1934,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modal-login']/div/div/div[2]/div/form/div/input</value>
-      <webElementGuid>906256dc-05f0-4387-ba71-15edb3a82666</webElementGuid>
+      <webElementGuid>31473fd1-a5b9-41bf-b715-4015cdd5823a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1886,7 +1942,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>e54a8d32-00aa-452b-a047-64af9e9889c4</webElementGuid>
+      <webElementGuid>8bfbf40b-c455-4b76-a48d-dfe9feb970bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1894,6 +1950,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'username' and @placeholder = 'ID Pelanggan' and @type = 'text']</value>
-      <webElementGuid>7f573f21-1ad0-4aac-bcb7-a03652bef2d3</webElementGuid>
+      <webElementGuid>70bba34f-5e38-4fe0-a7b1-19ff854b3bed</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

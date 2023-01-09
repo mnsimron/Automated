@@ -6,16 +6,88 @@
    <elementGuidId>16fcd047-e54b-4195-bcd3-89b3cd568667</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;password&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@name='password']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;password&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3c7391d1-bcc7-44ad-8555-0f170d53aedc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>dca95f05-cfc6-4c1c-b85f-1e26f56979c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-dirty ng-valid</value>
+      <webElementGuid>d1265366-9892-4a2c-a122-229f42556ac8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>d72b1a71-75b4-41de-8576-aec25fdb866e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Kata Sandi</value>
+      <webElementGuid>6a9db9fc-1fe7-4a7f-a010-67ded628ae00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-name</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>6c83059e-d7dd-45e1-9c7a-88e1793ac018</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>6058388b-c023-4a5c-8c67-c691179cdebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-model</name>
+      <type>Main</type>
+      <value>Q</value>
+      <webElementGuid>80130280-3d76-46e4-862a-13b5c15c86e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-login&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form&quot;]/form[@class=&quot;login-page ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;form-group has-form2&quot;]/div[@class=&quot;row&quot;]/input[@class=&quot;form-control ng-untouched ng-dirty ng-valid&quot;]</value>
+      <webElementGuid>88c74e95-a882-4582-911a-3161e7635265</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -41,7 +113,7 @@
       <webElementGuid>bb9e8b34-916f-400a-8c8c-6c6884b6cd44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
@@ -49,7 +121,7 @@
       <webElementGuid>696065be-6340-49da-9f5e-48a585d2fb75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
@@ -65,7 +137,7 @@
       <webElementGuid>7139c995-f15c-4688-bb10-3c30553cd198</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -2270,7 +2342,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='password']</value>
-      <webElementGuid>8b20569b-0551-4f31-8a16-749fcd3ee70a</webElementGuid>
+      <webElementGuid>8b1e24a6-8340-4656-a59f-074dbb991ece</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -2278,7 +2350,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modal-login']/div/div/div[2]/div/form/div[2]/div/input</value>
-      <webElementGuid>04801829-90f8-4dc3-83b5-62f24ae1b6e1</webElementGuid>
+      <webElementGuid>9bf35f6b-8e62-4708-8cba-fcb6a06f8485</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -2286,7 +2358,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
-      <webElementGuid>e8a3ae9e-7d19-4a07-ad43-1aec799b8f41</webElementGuid>
+      <webElementGuid>55484863-56df-4d3c-9d0d-d6e312f7354d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -2294,6 +2366,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'password' and @placeholder = 'Kata Sandi' and @type = 'password']</value>
-      <webElementGuid>6b2638a8-b90f-4e83-8d28-d7c3592f02cb</webElementGuid>
+      <webElementGuid>764fe6c5-c63b-4c19-abbc-4298ea65eca2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
