@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Bantuan_la la-bell</name>
+   <tag></tag>
+   <elementGuidId>f6eca8fc-8595-4a75-a03a-805e065320bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.la.la-bell</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e059b1bf-17dd-49b1-96d5-17bc508c92d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>la la-bell</value>
+      <webElementGuid>b9b61a88-6bce-443e-ba46-ee6a38620501</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[@class=&quot;wrapper&quot;]/app-admin-header[1]/div[@class=&quot;main-header&quot;]/nav[@class=&quot;navbar navbar-header navbar-expand-lg&quot;]/div[@class=&quot;container-fluid&quot;]/ul[@class=&quot;navbar-nav topbar-nav ml-md-auto align-items-center&quot;]/li[@class=&quot;nav-item dropdown hidden-caret&quot;]/a[@id=&quot;navbarDropdown&quot;]/i[@class=&quot;la la-bell&quot;]</value>
+      <webElementGuid>7d42b020-a859-4860-a564-e3b502c1a0a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='navbarDropdown']/i</value>
+      <webElementGuid>ad22d97b-8b73-4c13-9701-3378d1da40a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/i</value>
+      <webElementGuid>a20f6a99-3622-4dc2-a4a7-5cdaa4f75182</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

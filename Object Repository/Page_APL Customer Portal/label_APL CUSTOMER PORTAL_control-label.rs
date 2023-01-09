@@ -22,6 +22,134 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
+      <webElementGuid>a97abbec-2d07-40ab-b165-699ba1921d5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>control-label</value>
+      <webElementGuid>3eaa3f99-3a0b-4c3d-97d9-9f687a170d20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>agree-remember</value>
+      <webElementGuid>ab8e181f-7b4f-40a2-8133-89dcf4d93a3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-login&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form&quot;]/form[@class=&quot;login-page ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;checkbox-ingat&quot;]/label[@class=&quot;control-label&quot;]</value>
+      <webElementGuid>f111abe0-008e-45e0-b077-72bf775658f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4d1c5722-36fa-4315-8d7a-693fc91c744f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>control-label</value>
+      <webElementGuid>cb9c6bff-a774-4b01-af58-8de445723161</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>agree-remember</value>
+      <webElementGuid>fc9b1f92-fe88-4f69-b01e-99b1361256d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-login&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form&quot;]/form[@class=&quot;login-page ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;checkbox-ingat&quot;]/label[@class=&quot;control-label&quot;]</value>
+      <webElementGuid>db525d38-2bd6-404f-89ca-cf9ece957a65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e7532b49-eee3-4d1c-a927-304261f65735</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>control-label</value>
+      <webElementGuid>17be8f87-e762-4ed3-9d36-81cd9fbf2609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>agree-remember</value>
+      <webElementGuid>fb55eaf6-3cf6-4295-9382-84b60d6bd130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-login&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form&quot;]/form[@class=&quot;login-page ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;checkbox-ingat&quot;]/label[@class=&quot;control-label&quot;]</value>
+      <webElementGuid>ae003eb0-b3f0-4cf8-848f-bbbd0c3d99a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>980739aa-b2a0-4ac1-89c4-e7f6acefd896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>control-label</value>
+      <webElementGuid>b41c13bf-7640-4426-9df8-1b2609116c08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>agree-remember</value>
+      <webElementGuid>cca1d326-56d9-424b-9b54-17926d0e652c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-login&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form&quot;]/form[@class=&quot;login-page ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;checkbox-ingat&quot;]/label[@class=&quot;control-label&quot;]</value>
+      <webElementGuid>491aef5d-29aa-49c8-910a-35743516a2aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
       <webElementGuid>9b7f62bc-41f4-452e-b37b-dbbf85585d26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -41,7 +169,7 @@
       <webElementGuid>e22d68fc-f244-4439-9eb2-ba3f357920e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
@@ -1302,7 +1430,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modal-login']/div/div/div[2]/div/form/div[3]/label</value>
-      <webElementGuid>a04bab84-5d7f-4aa8-aff7-c28d6f1f879f</webElementGuid>
+      <webElementGuid>95b24c46-d0ee-4e4c-a4b3-85b3a6587474</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1310,6 +1438,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label</value>
-      <webElementGuid>e2dd19f4-481c-4770-b7f1-cefb4c8d79e9</webElementGuid>
+      <webElementGuid>147d9be9-aaaa-4f3f-b11e-ea61d0fd11c4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

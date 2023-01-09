@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lihat Semua Notifikasi</name>
+   <tag></tag>
+   <elementGuidId>bcfa68e5-9ea8-46ac-aeb4-fb55e4e7f472</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Perubahan Limit'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.see-all.hide-topbar-open</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7786565a-dddf-4bec-9cae-ff586dd38713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>see-all hide-topbar-open</value>
+      <webElementGuid>6137d0fb-c21e-4ebd-b49f-9eb30c4ddad4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlink</name>
+      <type>Main</type>
+      <value>/notification</value>
+      <webElementGuid>ed2df8c2-7332-4bca-a60c-77f808782155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-router-link</name>
+      <type>Main</type>
+      <value>/notification</value>
+      <webElementGuid>a3f84ced-c686-4a88-826a-7935b38114cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/notification</value>
+      <webElementGuid>ab0bd660-3377-49f9-8cb6-9aedb793c91f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Semua Notifikasi</value>
+      <webElementGuid>e62d0ef1-90ce-4534-a868-7e1ec271bc0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[@class=&quot;wrapper&quot;]/app-admin-header[1]/div[@class=&quot;main-header&quot;]/nav[@class=&quot;navbar navbar-header navbar-expand-lg&quot;]/div[@class=&quot;container-fluid&quot;]/ul[@class=&quot;navbar-nav topbar-nav ml-md-auto align-items-center&quot;]/li[@class=&quot;nav-item dropdown hidden-caret show&quot;]/ul[@class=&quot;dropdown-menu notif-box show&quot;]/li[3]/a[@class=&quot;see-all hide-topbar-open&quot;]</value>
+      <webElementGuid>7ea52ede-4b50-423f-a671-b1b940e4c89b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perubahan Limit'])[1]/following::a[1]</value>
+      <webElementGuid>1d6385e0-7d43-4736-b091-04163b965fab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi Baru'])[8]/following::a[2]</value>
+      <webElementGuid>3fc44b4e-7044-455d-bd10-5d0d3cace450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak ada produk di keranjang'])[1]/preceding::a[2]</value>
+      <webElementGuid>f8911313-c47c-4e0c-b1bb-c9d40d0697b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/notification')]</value>
+      <webElementGuid>d826de5a-4d99-4a4c-b872-97bba0b5c038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[3]/a</value>
+      <webElementGuid>34466549-ddf2-4b42-bf42-211c73bec67f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/notification' and (text() = 'Lihat Semua Notifikasi' or . = 'Lihat Semua Notifikasi')]</value>
+      <webElementGuid>53decbaa-eed2-4276-b8c4-9e9e51fa9476</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

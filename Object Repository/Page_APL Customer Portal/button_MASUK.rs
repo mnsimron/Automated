@@ -22,6 +22,198 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>cce59e01-31d1-41e3-bbc7-56b8d8654a10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-login</value>
+      <webElementGuid>1e286b65-6804-4778-bf41-41283e7cd20f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>login</value>
+      <webElementGuid>5aeccc8d-2bad-45ae-b2c8-b6b691f40146</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>c6b83efb-d08c-4c91-b2da-04d639016d86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> MASUK </value>
+      <webElementGuid>19c2f281-6de6-4fb5-a19a-b28bb1958938</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login&quot;)</value>
+      <webElementGuid>590e8c2e-e5f2-4555-b27c-fc1e8cf90233</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>575572e2-6b1c-42cb-bd08-418fd9488110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-login</value>
+      <webElementGuid>28a91213-266d-44b8-ba34-28cfbc975713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>login</value>
+      <webElementGuid>e9087c73-e958-46c3-b4d7-db98f2adf233</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>a24c6a3c-0770-4c8e-be5d-103ec811a03d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> MASUK </value>
+      <webElementGuid>f9efa703-b971-418d-93ad-a7cab2f6c2bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login&quot;)</value>
+      <webElementGuid>5d148a60-12bf-4036-90a5-5d8e479f2cd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>24e63037-2824-44b3-931f-c3c7905c42b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-login</value>
+      <webElementGuid>82feffab-380d-4172-b882-b3eea38a077e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>login</value>
+      <webElementGuid>560f5c7d-1c40-4218-8a06-7ba4f5593197</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>40652890-cc4a-43e3-92a1-17e1cf653675</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> MASUK </value>
+      <webElementGuid>b8634c83-f02e-42b4-86ed-28b7f5246b3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login&quot;)</value>
+      <webElementGuid>9a2869c4-f304-4f3e-8338-2ca711b3d720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5c428290-1623-4af7-9502-72e089c9ac51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-login</value>
+      <webElementGuid>005df2f2-9dce-4f96-92b5-fe0c3fd7ee64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>login</value>
+      <webElementGuid>d313f45f-776b-4969-8eaa-ec3b7c5c60fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>65bff50b-2db0-4f48-a059-d1f5d7481b0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> MASUK </value>
+      <webElementGuid>66b99e99-73eb-40e8-8aba-33fd43c8bd5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login&quot;)</value>
+      <webElementGuid>5a91f6ce-3600-4c22-892b-4ac37eb918b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
       <webElementGuid>607e4db4-c437-42c1-a408-c04e10cdacc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +225,7 @@
       <webElementGuid>9a143ade-5130-4ab5-ba3f-cc42b58c0a9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -41,7 +233,7 @@
       <webElementGuid>90cad932-5872-452b-932b-260a97d19f6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -49,7 +241,7 @@
       <webElementGuid>b400a278-8513-495f-842c-0c13e3891d51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -2038,7 +2230,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='login']</value>
-      <webElementGuid>a21ce283-4b83-4e77-a46f-6bdce73d1c30</webElementGuid>
+      <webElementGuid>70c8927b-b9c4-4015-9e5d-a6746a4bef5b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -2046,7 +2238,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modal-login']/div/div/div[2]/div/form/button</value>
-      <webElementGuid>02f8f01f-d952-42fb-bf69-2d8d03a1aa9d</webElementGuid>
+      <webElementGuid>a806e188-0031-4b98-a2e6-1026ba9583f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -2054,7 +2246,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingat Saya (Opsional)'])[1]/following::button[1]</value>
-      <webElementGuid>ef89be5c-f042-4fc5-a4ec-7cddb89bab13</webElementGuid>
+      <webElementGuid>e2153630-c29a-4df9-98da-1d6fece72049</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -2062,7 +2254,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat dan Ketentuan'])[1]/following::button[1]</value>
-      <webElementGuid>154f4708-5b29-4691-b182-04f29f1ecbed</webElementGuid>
+      <webElementGuid>3dcaa73e-9644-44ff-a3bb-1c10f0fe6c13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -2070,7 +2262,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Kata Sandi?'])[1]/preceding::button[1]</value>
-      <webElementGuid>275d1e7f-7d4c-4689-aa23-c993f57cdcbf</webElementGuid>
+      <webElementGuid>52a9034f-30ee-46c5-baaa-c9ea8aa53b08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -2078,7 +2270,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Akun'])[1]/preceding::button[1]</value>
-      <webElementGuid>a382ac2a-ce3a-477d-a9e1-32548f7e6032</webElementGuid>
+      <webElementGuid>cc5f8507-18ac-4001-8701-87cf14432630</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -2086,7 +2278,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/button</value>
-      <webElementGuid>d699bbed-f7ab-4808-bb83-06657dc81852</webElementGuid>
+      <webElementGuid>4e5a21d7-0179-4397-b352-2aef8b567243</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -2094,6 +2286,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'login' and @type = 'submit' and (text() = ' MASUK ' or . = ' MASUK ')]</value>
-      <webElementGuid>ea353a1a-6ca7-4621-a44e-ecabca80815c</webElementGuid>
+      <webElementGuid>6101d2bc-38ee-426c-ae18-692254b522e1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

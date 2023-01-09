@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SemuaDiterimaPengiriman Ditolak</name>
+   <tag></tag>
+   <elementGuidId>5601bdef-1522-47de-8b29-8636d6cc2d59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@name='sort'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tab-5 > div.row > div.col-md-4.right-aligned > form.navbar-left.navbar-form.mr-md-4.ng-untouched.ng-pristine.ng-valid > div.input-group > select[name=&quot;sort&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ab3008d2-faef-4ec1-a6ba-8e35bf3e73f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-select my-select ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>fabd405e-8719-43df-bda2-a12e4a97653f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>sort</value>
+      <webElementGuid>1f99cb97-cad0-4290-ac84-196544244719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-name</name>
+      <type>Main</type>
+      <value>sort</value>
+      <webElementGuid>d4bbb230-9dad-4861-ba2e-11b48b66617a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-model</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>379ed91d-0c28-44ef-b248-1fe2624d4563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SemuaDiterimaPengiriman Ditolak</value>
+      <webElementGuid>bb23feb6-7c29-4fdf-9f2e-94bbf73724f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-5&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 right-aligned&quot;]/form[@class=&quot;navbar-left navbar-form mr-md-4 ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;input-group&quot;]/select[@class=&quot;custom-select my-select ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>f77674cb-eb8b-4182-ab5b-c2404a21bba9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@name='sort'])[3]</value>
+      <webElementGuid>3f2751d9-e533-4144-adcb-1f2907290feb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-5']/div/div[2]/form/div/select</value>
+      <webElementGuid>5786d35a-6eab-41a9-84a6-cf4d6701a84a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buat Pesanan'])[5]/following::select[1]</value>
+      <webElementGuid>c8054cf8-a686-4705-94a6-47686a8c9003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buat Pesanan'])[4]/following::select[1]</value>
+      <webElementGuid>ae049861-33c8-480b-a709-225f2ae988e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/form/div/select</value>
+      <webElementGuid>ffe5befa-8609-4a59-85c7-ecb87684cd74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'sort' and (text() = 'SemuaDiterimaPengiriman Ditolak' or . = 'SemuaDiterimaPengiriman Ditolak')]</value>
+      <webElementGuid>c85dc61d-ef15-4c40-bb78-49cc77efa762</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

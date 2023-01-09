@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[1]/preceding::a[16]</value>
+         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -16,6 +16,46 @@
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d9df1d40-cf61-4dd2-9656-7ec5c81b87b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-router-link</name>
+      <type>Main</type>
+      <value>/program</value>
+      <webElementGuid>4a1a95b6-4f51-4793-9bad-e348df869ce8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/program</value>
+      <webElementGuid>c301a6e0-91df-4a32-919e-117203046463</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Program</value>
+      <webElementGuid>87accf99-ddc8-4b9e-b39b-945d6b1c8a4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[@class=&quot;wrapper&quot;]/app-admin-sidebar[1]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;sidebar-wrapper&quot;]/ul[@class=&quot;nav navAnniversary&quot;]/li[@class=&quot;nav-item mobile-menu-sidebar&quot;]/a[1]</value>
+      <webElementGuid>cf71682e-e1bb-4298-88e2-0bc997c65ab6</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +73,7 @@
       <webElementGuid>c1e960e2-d05c-43ab-b631-25c279d88ad9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
@@ -41,7 +81,7 @@
       <webElementGuid>8ca7a9bf-ddda-45ab-8358-6de5b26b7afe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -62,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[1]/preceding::a[16]</value>
-      <webElementGuid>6c39b632-0311-4d0c-8b78-8926c1d9840b</webElementGuid>
+      <webElementGuid>7b33cbe8-0ede-4ceb-827f-f4fa546f56be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::a[16]</value>
-      <webElementGuid>c5589b4f-22dd-40cd-91ca-be2b994961c1</webElementGuid>
+      <webElementGuid>fea61fca-dfae-44a2-ad04-3010af9bdcfd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/program')]</value>
-      <webElementGuid>daac0951-a968-4967-a2e6-d7894ce38756</webElementGuid>
+      <webElementGuid>2e7f019c-471d-48ac-b891-938b4b4b3881</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/ul/li/a</value>
-      <webElementGuid>9bde65d6-0aba-4647-aaec-0dd4d55255fc</webElementGuid>
+      <webElementGuid>22844fa3-f647-44e4-a771-5b32f25ad3cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/program' and (text() = 'Program' or . = 'Program')]</value>
-      <webElementGuid>de8c6f62-b771-46e6-869d-d8e8dd007b37</webElementGuid>
+      <webElementGuid>7c69ded8-64be-4c5e-bca2-18956676477d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

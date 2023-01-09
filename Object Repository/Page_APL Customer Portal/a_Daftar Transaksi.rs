@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Daftar Transaksi</name>
+   <tag></tag>
+   <elementGuidId>37172225-5bfa-4f1c-89f7-74c156aef48b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[1]/preceding::a[12]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>306b5976-ea73-4ce7-8b7d-f1d00ce361d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlinkactive</name>
+      <type>Main</type>
+      <value>router-link-active</value>
+      <webElementGuid>beecebf6-73da-4adc-a26e-880dfa27073c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-router-link</name>
+      <type>Main</type>
+      <value>/transaction</value>
+      <webElementGuid>bb72b069-af50-4de9-a2df-3383517f9669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-router-link-active</name>
+      <type>Main</type>
+      <value>router-link-active</value>
+      <webElementGuid>8fcfd226-6213-42c2-b81e-90daf609e317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/transaction</value>
+      <webElementGuid>2abd231f-00f9-4ce5-a30f-190a49fbbc60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Transaksi</value>
+      <webElementGuid>d2236e7b-1e81-4cd5-be6f-80a2a6c486d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[@class=&quot;wrapper&quot;]/app-admin-sidebar[1]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;sidebar-wrapper&quot;]/ul[@class=&quot;nav navAnniversary&quot;]/li[@class=&quot;nav-item mobile-menu-sidebar&quot;]/a[1]</value>
+      <webElementGuid>88cbe5cb-633b-4915-8705-876e1ad35526</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[1]/preceding::a[12]</value>
+      <webElementGuid>951e0c05-6f3b-45e4-8ec6-88c5d53057d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::a[12]</value>
+      <webElementGuid>6c68d25d-95cd-41c5-914d-adc46d017b22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/transaction')]</value>
+      <webElementGuid>2cd34734-04a8-4c0c-90be-b2eecccdd48e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>a165e65b-ee5b-4abc-8ee1-87dba913d07b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/transaction' and (text() = 'Daftar Transaksi' or . = 'Daftar Transaksi')]</value>
+      <webElementGuid>a8afa91e-38f9-450f-b160-022ceeafcb2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
